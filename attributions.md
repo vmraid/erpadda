@@ -1,6 +1,6 @@
-## ERPNext includes these public works
+## ERPAdda includes these public works
 
-For Frappe Framework, please see attributions.md at https://github.com/frappe/frappe/
+For VMRaid Framework, please see attributions.md at https://github.com/vmraid/vmraid/
 
 #### Images
 

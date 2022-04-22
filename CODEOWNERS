@@ -3,33 +3,33 @@
 # These owners will be the default owners for everything in
 # the repo. Unless a later match takes precedence,
 
-erpnext/accounts/               @nextchamp-saqib @deepeshgarg007
-erpnext/assets/                 @nextchamp-saqib @deepeshgarg007
-erpnext/erpnext_integrations/   @nextchamp-saqib
-erpnext/loan_management/        @nextchamp-saqib @deepeshgarg007
-erpnext/regional                @nextchamp-saqib @deepeshgarg007
-erpnext/selling                 @nextchamp-saqib @deepeshgarg007
-erpnext/support/                @nextchamp-saqib @deepeshgarg007
+erpadda/accounts/               @nextchamp-saqib @deepeshgarg007
+erpadda/assets/                 @nextchamp-saqib @deepeshgarg007
+erpadda/erpadda_integrations/   @nextchamp-saqib
+erpadda/loan_management/        @nextchamp-saqib @deepeshgarg007
+erpadda/regional                @nextchamp-saqib @deepeshgarg007
+erpadda/selling                 @nextchamp-saqib @deepeshgarg007
+erpadda/support/                @nextchamp-saqib @deepeshgarg007
 pos*                            @nextchamp-saqib
 
-erpnext/buying/                 @marination @rohitwaghchaure @ankush
-erpnext/e_commerce/             @marination
-erpnext/maintenance/            @marination @rohitwaghchaure
-erpnext/manufacturing/          @marination @rohitwaghchaure @ankush
-erpnext/portal/                 @marination
-erpnext/quality_management/     @marination @rohitwaghchaure
-erpnext/shopping_cart/          @marination
-erpnext/stock/                  @marination @rohitwaghchaure @ankush
+erpadda/buying/                 @marination @rohitwaghchaure @ankush
+erpadda/e_commerce/             @marination
+erpadda/maintenance/            @marination @rohitwaghchaure
+erpadda/manufacturing/          @marination @rohitwaghchaure @ankush
+erpadda/portal/                 @marination
+erpadda/quality_management/     @marination @rohitwaghchaure
+erpadda/shopping_cart/          @marination
+erpadda/stock/                  @marination @rohitwaghchaure @ankush
 
-erpnext/crm/                    @ruchamahabal @pateljannat
-erpnext/education/              @ruchamahabal @pateljannat
-erpnext/hr/                     @ruchamahabal @pateljannat
-erpnext/payroll                 @ruchamahabal @pateljannat
-erpnext/projects/               @ruchamahabal @pateljannat
+erpadda/crm/                    @ruchamahabal @pateljannat
+erpadda/education/              @ruchamahabal @pateljannat
+erpadda/hr/                     @ruchamahabal @pateljannat
+erpadda/payroll                 @ruchamahabal @pateljannat
+erpadda/projects/               @ruchamahabal @pateljannat
 
-erpnext/controllers/            @deepeshgarg007 @nextchamp-saqib @rohitwaghchaure @marination @ankush
-erpnext/patches/                @deepeshgarg007 @nextchamp-saqib @marination @ankush
-erpnext/public/                 @nextchamp-saqib @marination
+erpadda/controllers/            @deepeshgarg007 @nextchamp-saqib @rohitwaghchaure @marination @ankush
+erpadda/patches/                @deepeshgarg007 @nextchamp-saqib @marination @ankush
+erpadda/public/                 @nextchamp-saqib @marination
 
 .github/                        @ankush
 requirements.txt                @gavindsouza

@@ -1,4 +1,4 @@
-# frappe   # https://github.com/frappe/frappe is installed during bench-init
+# vmraid   # https://github.com/vmraid/vmraid is installed during chair-init
 gocardless-pro~=1.22.0
 googlemaps
 plaid-python~=7.2.1

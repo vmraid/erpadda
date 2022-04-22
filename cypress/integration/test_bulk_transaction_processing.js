@@ -8,16 +8,16 @@ describe("Bulk Transaction Processing", () => {
 		cy.visit("/app/sales-order");
 		cy.url().should("include", "/sales-order");
 		cy.window()
-			.its("frappe.csrf_token")
+			.its("vmraid.csrf_token")
 			.then((csrf_token) => {
 				return cy
 					.request({
-						url: "/api/method/erpnext.tests.ui_test_bulk_transaction_processing.create_records",
+						url: "/api/method/erpadda.tests.ui_test_bulk_transaction_processing.create_records",
 						method: "POST",
 						headers: {
 							Accept: "application/json",
 							"Content-Type": "application/json",
-							"X-Frappe-CSRF-Token": csrf_token,
+							"X-VMRaid-CSRF-Token": csrf_token,
 						},
 						timeout: 60000,
 					})

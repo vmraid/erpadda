@@ -59,9 +59,9 @@
 	},
 	"root": true,
 	"globals": {
-		"frappe": true,
+		"vmraid": true,
 		"Vue": true,
-		"erpnext": true,
+		"erpadda": true,
 		"hub": true,
 		"$": true,
 		"jQuery": true,
